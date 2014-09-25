@@ -1,0 +1,37 @@
+
+				----------- EAI2SAP ----- 
+
+[#|2014-09-14T01:12:59.960+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=265;_ThreadName=httpWorkerThread-4848-4;EAI2SAP_PRD1_V01;|CORE5022: All ejb(s) of [EAI2SAP_PRD1_V01] were unloaded successfully!|#] --PROD1V
+
+[#|2014-09-14T01:15:48.217+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=394;_ThreadName=httpWorkerThread-4848-3;EAI002_EAI2SAP_PRD1_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD1_V04_05] were unloaded successfully!|#]
+
+[#|2014-09-14T01:16:08.733+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=350;_ThreadName=httpWorkerThread-4848-2;EAI002_EAI2SAP_PRD2_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD2_V04_05] were unloaded successfully!|#]
+
+[#|2014-09-14T01:16:11.209+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=347;_ThreadName=httpWorkerThread-4848-2;EAI002_EAI2SAP_PRD3_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD3_V04_05] were unloaded successfully!|#]
+
+[#|2014-09-14T01:16:33.689+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=316;_ThreadName=httpWorkerThread-4848-4;EAI002_EAI2SAP_PRD4_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD4_V04_05] were unloaded successfully!|#]
+
+[#|2014-09-14T01:16:47.569+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=148;_ThreadName=httpWorkerThread-4848-1;EAI002_EAI2SAP_PRD5P_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD5P_V04_05] were unloaded successfully!|#]
+
+[#|2014-09-14T01:16:55.731+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=218;_ThreadName=httpWorkerThread-4848-4;EAI002_EAI2SAP_PRD6P_V04_05;|CORE5022: All ejb(s) of [EAI002_EAI2SAP_PRD6P_V04_05] were unloaded successfully!|#]
+
+				----------- SAP2EAI ----- 
+[#|2014-09-14T01:28:23.913+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=387;_ThreadName=httpWorkerThread-4848-4;EAI001_SAP2EAI_PRD1_V01_03;|CORE5022: All ejb(s) of [EAI001_SAP2EAI_PRD1_V01_03] were unloaded successfully!|#]
+
+
+[#|2014-09-14T01:30:38.534+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=348;_ThreadName=httpWorkerThread-4848-3;EAI001_SAP2EAI_PRD2_V01_03;|CORE5022: All ejb(s) of [EAI001_SAP2EAI_PRD2_V01_03] were unloaded successfully!|#]
+
+
+[#|2014-09-14T01:31:48.070+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=343;_ThreadName=httpWorkerThread-4848-4;EAI001_SAP2EAI_PRD3_V01_03;|CORE5022: All ejb(s) of [EAI001_SAP2EAI_PRD3_V01_03] were unloaded successfully!|#]
+
+[#|2014-09-14T01:33:46.957+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=327;_ThreadName=httpWorkerThread-4848-2;EAI001_SAP2EAI_PRD5P_V01_03;|CORE5022: All ejb(s) of [EAI001_SAP2EAI_PRD5P_V01_03] were unloaded successfully!|#]
+
+[#|2014-09-14T01:35:02.875+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=91;_ThreadName=httpWorkerThread-4848-0;EAI001_SAP2EAI_PRD6P_V01_03;|CORE5022: All ejb(s) of [EAI001_SAP2EAI_PRD6P_V01_03] were unloaded successfully!|#]
+
+
+				----------- FTP ----- 
+
+
+[#|2014-09-14T01:22:12.103+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=274;_ThreadName=httpWorkerThread-4848-0;EAI005_FTPUploader_PRD1V_V05_03;|CORE5022: All ejb(s) of [EAI005_FTPUploader_PRD1V_V05_03] were unloaded successfully!|#]
+
+[#|2014-09-14T01:22:40.627+0200|INFO|sun-appserver2.1|javax.enterprise.system.core|_ThreadID=274;_ThreadName=httpWorkerThread-4848-0;EAI004_FsWatcher_PRD1V_V03_01;|CORE5022: All ejb(s) of [EAI004_FsWatcher_PRD1V_V03_01] were unloaded successfully!|#]

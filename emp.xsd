@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.example.org/emp/" targetNamespace="http://www.example.org/emp/" elementFormDefault="qualified">
+	<element name="emp">
+		<complexType>
+			<sequence>
+				<element name="ename" type="tns:enameType"></element>
+				<element name="empcode" type="string"></element>
+				<element name="address" type="tns:addressType"></element>
+			</sequence>
+		</complexType>
+	</element>
+	<complexType name="enameType">
+		<sequence>
+			<element name="fname" type="string"></element>
+			<element name="sname" type="string"></element>
+		</sequence>
+	</complexType>
+	<complexType name="addressType">
+		<sequence>
+			<element name="doorNo" type="string"></element>
+			<element name="street" type="string"></element>
+			<element name="city" type="string"></element>
+			<element name="zipCode" type="string"></element>
+		</sequence>
+	</complexType>
+</schema>
